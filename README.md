@@ -1,5 +1,3 @@
-# INDEX111
-This Repository contains my exercises on https://www.markdowntutorial.com/
 "## Kalu Ugwu Maria Web Excercise"
 ## ITALICS AND BOLD
 Writing in Markdown is _not_ that hard!
