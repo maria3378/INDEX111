@@ -6,7 +6,8 @@ I **will**complete these lessons!
 ## HEADERS
 # Header one
 ## Header two
-### Header threer four
+### Header three
+#### Header four
 ##### Header five
 ###### Header six
 #### Colombian Symbolism in _One Hundred Years of Solitude_
@@ -58,7 +59,7 @@ I read this interesting quote the other day:
     * Has white hair 
     * Is possibly mentally unwell
 ### LISTS WITH FURTHER CONTEXT
- 1. Cut the cheese   
+1. Cut the cheese   
     Make sure that the cheese is cut into little triangles.
 
 2. Slice the tomatoes   
